@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/500234445239ebade2d49.jpg" alt="WOLFUSERBOT">
   
-![Build Status](https://travis-ci.com/MrSammyXD/wolfuserbot.svg?branch=sql-extended)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/MrSammyXD/wolfuserbot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrSammyXD/wolfuserbot&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/MrSammyXD/wolfuserbot) ![Contributers](https://img.shields.io/github/contributors/MrSammyXD/wolfuserbot) ![Forks](https://img.shields.io/github/forks/MrSammyXD/wolfuserbot)     
+![Build Status](https://travis-ci.com/MrSammyXD/wolfuserbot.svg?branch=sql-extended)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/MrSammyXD/wolfuserbot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrSammyXD/wolfuserbot&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/MrSammyXD/wolfuserbot) ![Contributers](https://img.shields.io/github/contributors/MrSammyXD/wolfuserbot) ![Forks](https://img.shields.io/github/forks/MrSammyXD/Wolfuserbot)     
 <a href="https://t.me/WolfBotHelP"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a> </p> <a href="https://t.me/WolfUpdates"> <img src="https://img.shields.io/badge/telegram-Support_Channel-blue?style=social&logo=telegram" alt="support" /></a>
 
 </p>
