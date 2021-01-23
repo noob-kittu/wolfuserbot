@@ -10,7 +10,7 @@
 <img src="https://telegra.ph/file/500234445239ebade2d49.jpg" alt="WOLFUSERBOT">
   
 ![Build Status](https://travis-ci.com/MrSammyXD/wolfuserbot.svg?branch=sql-extended)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/MrSammyXD/wolfuserbot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrSammyXD/wolfuserbot&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/MrSammyXD/wolfuserbot) ![Contributers](https://img.shields.io/github/contributors/MrSammyXD/wolfuserbot) ![Forks](https://img.shields.io/github/forks/MrSammyXD/wolfuserbot)     
-<a href="https://t.me/WolfBotChats"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a> </p> <a href="https://t.me/WolfUpdates"> <img src="https://img.shields.io/badge/telegram-Support_Channel-blue?style=social&logo=telegram" alt="support" /></a>
+<a href="https://t.me/WolfBotHelP"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a> </p> <a href="https://t.me/WolfUpdates"> <img src="https://img.shields.io/badge/telegram-Support_Channel-blue?style=social&logo=telegram" alt="support" /></a>
 
 </p>
 <a href="https://youtu.be/UCJEMDBgp_zYywtotOBrYJYw"><img src="https://img.shields.io/badge/How%20To%20Deploy-LATEST-blue.svg?logo=Youtube"></a>
