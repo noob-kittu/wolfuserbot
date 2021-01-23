@@ -277,7 +277,7 @@ def kittu(**args):
     return decorator
 
 
-borg = wolfuserbot = bot ; admin_cmd = itzjass ; command = sammy ; register = mrsammy = kittu
+borg = wolfs = bot ; admin_cmd = itzjass ; command = sammy ; register = mrsammy = kittu
 
 
 def errors_handler(func):
